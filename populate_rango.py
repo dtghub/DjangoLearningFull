@@ -1,7 +1,6 @@
 import os
 from unicodedata import category, name
 
-from sympy import python
 os.environ.setdefault('DJANGO_SETTINGS_MODULE',
                         'tango_with_django_project.settings')
 
